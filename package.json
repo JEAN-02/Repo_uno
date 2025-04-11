@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "npx playwright test Http2.spec.ts"
+    "test": "npx playwright test Http2.spec.ts",
+    "test2": "npx playwright test Video.spec.ts"
   },
   "keywords": [],
   "author": "",
