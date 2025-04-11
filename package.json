@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "npx playwright test Http2.spec.ts"
+    "test": "npx playwright test Radio_chec.spec.ts"
   },
   "keywords": [],
   "author": "",
