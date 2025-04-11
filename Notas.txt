@@ -1,0 +1,29 @@
+Instalar Typescript
+1. -npm i -g typescript
+2. tsc -v
+3. -Compilador tsc -imit
+4. -tsc -w
+5. comentar todo ctrl + }
+6. cambio
+
+comandos git
+1.-git init
+2.-git status
+3.-git log
+4.-git add
+5.- git add *.doc
+6.-git commit -m "Demo commit"
+para cuando se borra algo
+7.-git checkout -- .
+8.-git checkout commit especifico
+9.-git checkout -f Rama
+10.-git checkout -- nombre archivo
+11.-git config --global alias.lg "log --oneline --decorate --all --graph"
+12.-git config --global alias.s "status -s -b"
+13. -git reset --soft ruta numerica del archivo para regresar a esa version
+14. -git reset --hard ruta del archivo
+15. -git reflog
+
+git remote add origin https://github.com/JEAN-02/Prueba_UNO.git
+git branch -M main
+git push -u origin main

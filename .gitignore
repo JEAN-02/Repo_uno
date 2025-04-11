@@ -1,0 +1,27 @@
+# Playwright
+/node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/SalidaJS/
+/ArchivosTC/
+/demos/
+/cmder.zip/
+
+# Archivos grandes y sensibles
+*.zip
+*.mp4
+*.mp3
+*.png
+*.web
+*.env
+*.js
+
+# Ignorar archivos específicos
+
+# Carpetas personalizadas
+
+
+# Ojo con esta línea (puede ser peligrosa si tienes documentación o archivos útiles)
+# *.txt  ← Podrías comentar esta línea si hay .txt que sí quieres mantener
